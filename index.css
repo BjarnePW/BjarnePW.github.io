@@ -13,7 +13,7 @@ header{
     color: white;
     height: 10%;
     font-size: 26px;
-    background-image: url("!Rastergrafik.png");
+    background-image: url("./!Rastergrafik.png");
 }
 
 button{
@@ -51,7 +51,7 @@ button{
    }
 }
 .CatgroupBUTTON:hover{
-   background-image: url("!Rastergrafik.png");
+   background-image: url("./!Rastergrafik.png");
    background-size:801px, 128px ;
 }
 
