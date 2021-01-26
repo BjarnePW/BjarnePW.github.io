@@ -13,7 +13,7 @@ header{
     color: white;
     height: 10%;
     font-size: 26px;
-    background-image: url("!rastergrafik.png");
+    background-image: url("./!rastergrafik.png");
     text-shadow:10px 10px 10px  rgba(255, 255, 255, 0.466) ; 
 }
 
@@ -31,7 +31,7 @@ button{
     transform: translate(-50%, -50%);
     border-style: none;
     border-color: rgba(255, 255, 255, 0);
-    background-image: url("!rastergrafik.png");
+    background-image: url("./!rastergrafik.png");
     background-color: rgba(54, 54, 54, 0.74);
 }
 
@@ -59,7 +59,7 @@ button{
     text-align: center;
     text-shadow:5px 5px 5px  rgba(255, 255, 255, 0.466) ; 
     border-radius: 5px;
-    background-image: url("!rastergrafik.png");
+    background-image: url("./!rastergrafik.png");
 }
 .BM{
     background-color: rgba(0, 0, 0, 0.253);
